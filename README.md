@@ -2,6 +2,10 @@
 
 A React TypeScript app for discovering and exploring AI tools. Built as a companion frontend to the [Talika GraphQL API](https://github.com/m-hasnat/talika).
 
+## Preview
+
+![Find AI Tools](./screenshot.png)
+
 ## What It Does
 
 - Browse 15+ AI tools across categories — LLM, Code, Image, Audio, Video, and more
