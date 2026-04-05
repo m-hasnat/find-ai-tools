@@ -4,7 +4,7 @@ A React TypeScript app for discovering and exploring AI tools. Built as a compan
 
 ## Preview
 
-![Find AI Tools](./screenshot.png)
+![Find AI Tools](./src/assets/ai_tool_page.png)
 
 ## What It Does
 
